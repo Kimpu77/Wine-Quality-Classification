@@ -1,0 +1,1 @@
+This project predicts wine quality (good/bad) using machine learning algorithms like Random Forest. The model is trained on physicochemical properties like acidity, sugar, and alcohol levels. An interactive web application built with Streamlit allows users to input data and get real-time predictions.
